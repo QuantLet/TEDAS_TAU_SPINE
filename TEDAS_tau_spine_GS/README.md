@@ -27,8 +27,8 @@ Subfunction : qrRho.m
 Datafile : GS_Ret.mat, GS_Tick.mat
 
 Example: 
-- Plot "Tau-spine generation"
-- Plot "Cumulative return: German equity sample"
+- Plot : "Tau-spine generation"
+- Plot : "Cumulative return: German equity sample"
 
 ```
 
