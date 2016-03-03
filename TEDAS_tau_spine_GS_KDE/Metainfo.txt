@@ -17,7 +17,6 @@ Keywords:
 - LASSO
 
 See also: 
-
 - TEDAS_strategies
 - TEDASstrategies2
 - TEDAS_gestalts
@@ -25,7 +24,6 @@ See also:
 - TEDAS_perform
 - TEDAS_tau_spine_MF
 - TEDAS_tau_spine_GS
-
 
 Author: Alla Petukhina
 
@@ -40,6 +38,5 @@ Datafile :
 - GS_Tick.mat
 - CAPNall.mat
 
-
 Example : 
-- Plot "Cumulative return: German equity sample"
+- Plot : "Cumulative return: German equity sample"
