@@ -28,7 +28,7 @@ Subfunction : qrRho.m, L1QR.m
 Datafile : GS_Ret.mat, GS_Tick.mat, CAPNall.mat
 
 Example: 
-- Plot "Cumulative return: German equity sample"
+- Plot : "Cumulative return: German equity sample"
 
 ```
 
