@@ -28,7 +28,7 @@ Datafile : MF_Ret.mat, MF_Tick.mat
 
 Example: 
 - Plot "Tau-spine generation"
-- Plot "Cumulative return: Mutual funds'' sample"
+- Plot : "Cumulative return: Mutual funds' sample"
 
 ```
 
