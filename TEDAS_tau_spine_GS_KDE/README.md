@@ -30,8 +30,10 @@ Datafile : GS_Ret.mat, GS_Tick.mat, CAPNall.mat
 Example: 
 - Plot : "Cumulative return: German equity sample"
 
-```
 
+
+```
+![Picture1](CAPN_CAPNKDE.png)
 
 ```matlab
 %TEDAS naive with KDE
