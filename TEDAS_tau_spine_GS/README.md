@@ -33,7 +33,7 @@ Example:
 ```
 
 ![Picture1](Tau-spines_generation.png)
-
+![Picture1](CAPNGS11_3D.png)
 
 ```matlab
 %% Pre-loading
