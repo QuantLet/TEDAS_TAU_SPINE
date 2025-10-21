@@ -27,7 +27,7 @@ See also:
 
 Author: Alla Petukhina
 
-Submitted:  by Alla Petukhina
+Submitted:  03.03.2016
 
 Subfunction: 
 - qrRho.m
