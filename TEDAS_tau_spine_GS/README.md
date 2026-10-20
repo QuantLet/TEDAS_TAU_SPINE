@@ -9,7 +9,7 @@ Name of Quantlet: TEDAS_tau_spine_GS
 
 Published in: TEDAS
 
-Description: Estimates the cumulative return TEDAS Naive strategy with 10 different tau-spines for German equity market
+Description: Estimates the cumulative return TEDAS Naive strategy with 10 different tau-spines for German equity market based on weekly returns from Dec2012 till Dec2014
 
 Keywords: 
 - asset
@@ -33,7 +33,7 @@ See also:
 
 Author: Alla Petukhina
 
-Submitted: by Alla Petukhina
+Submitted: 03.03.2016
 
 Subfunction: 
 - qrRho.m
@@ -43,8 +43,8 @@ Datafile:
 - GS_Tick.mat
 
 Example: 
-- Plot : "Tau-spine generation
-- Plot : "Cumulative return: German equity sample
+- Plot : "Tau-spine generation"
+- Plot : "Cumulative return: German equity sample"
 
 ```
 <div align="center">
