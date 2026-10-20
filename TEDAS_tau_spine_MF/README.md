@@ -9,7 +9,7 @@ Name of Quantlet: TEDAS_tau_spine_MF
 
 Published in: TEDAS
 
-Description: Estimates the cumulative return TEDAS Naive strategy with 10 different tau-spines for Mutual funds market
+Description: Estimates the cumulative return TEDAS Naive strategy with 10 different tau-spines for Mutual funds market based on monthly returns from Jan1998 till Dec2013
 
 Keywords: 
 - asset
@@ -33,7 +33,7 @@ See also:
 
 Author: Alla Petukhina
 
-Submitted: by Alla Petukhina
+Submitted: 03.03.2016
 
 Subfunction: 
 - qrRho.m
@@ -43,8 +43,8 @@ Datafile:
 - MF_Tick.mat
 
 Example: 
-- Plot : "Tau-spine generation
-- Plot : "Cumulative return: Mutual funds' sample
+- Plot : "Tau-spine generation"
+- Plot : "Cumulative return: Mutual funds' sample"
 
 ```
 <div align="center">
